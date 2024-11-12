@@ -20,4 +20,18 @@ In this project, we explore the Nifty 50 dataset and apply various data science 
 5. **Key Performance Indicators (KPIs)**: Generating actionable insights and KPIs for market prediction and crash identification.
 
 
+## clone this repository to your local machine using the following command:
+1. Clone the Repository
+bash script
+
+git clone https://github.com/srinidhi42/Stock-Market-Crash-Predictor.git
+cd Stock-Market-Crash-Predictor
+
+2. Install Dependencies
+This project requires a number of Python libraries. You can install all the required dependencies by using the provided requirements.txt file. Run the following command to install them:
+
+bash script
+
+pip install -r requirements.txt
+
 
