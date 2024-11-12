@@ -34,4 +34,7 @@ bash script
 
 pip install -r requirements.txt
 
+3. Download the nifty dataset
+https://www.kaggle.com/datasets/iamsouravbanerjee/nifty50-stocks-dataset
+
 
