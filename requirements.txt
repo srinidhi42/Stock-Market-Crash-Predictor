@@ -1,0 +1,8 @@
+Requirements to run project
+
+pip install
+-mathplotlib
+-scikit-learn
+-pandas
+-NumPy
+
